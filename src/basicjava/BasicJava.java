@@ -10,7 +10,8 @@ public class BasicJava {
         // TODO code application logic here
 //        new Ass1();
 // new Ass2();
-        new Ass3();
+//        new Ass3();
+new Ass4();
     }
     
 }
