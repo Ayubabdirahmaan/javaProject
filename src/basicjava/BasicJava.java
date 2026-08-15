@@ -8,7 +8,7 @@ public class BasicJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        new TestOne();
+        new Ass1();
     }
     
 }
