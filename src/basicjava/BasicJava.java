@@ -11,7 +11,8 @@ public class BasicJava {
 //        new Ass1();
 // new Ass2();
 //        new Ass3();
-new Ass4();
+//new Ass4();
+new Ass5(); 
     }
     
 }
