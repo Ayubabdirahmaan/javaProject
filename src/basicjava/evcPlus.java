@@ -27,6 +27,26 @@ public class evcPlus {
                     }else if(blance < 0) {
                         System.out.println("Invalid amount");
                     }
+                    break;
+                case 3:
+                    System.out.println("Enter number withdraw");
+                    int num = money.nextInt();
+                    System.out.println("Enter Amount withdraw");
+                    int amount = money.nextInt();
+                    if(amount > 0) {
+                          int withdraw = currentBlance - amount;
+                          System.out.println("Withdrawal successful! " + "You withdrew: " + amount + " Remaining balance: " + withdraw  );
+                    }else if(amount < 0){
+                        System.out.println("Invalid amount");
+                    }else {
+                        System.out.println("");
+                    }
+                    
+                case 4 :
+                    System.out.println("Good bye Thank you");
+                    break;
+                default :
+                    System.out.println("Please Enter correct ");
         }
         }
     }
