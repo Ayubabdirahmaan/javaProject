@@ -12,7 +12,8 @@ public class BasicJava {
 // new Ass2();
 //        new Ass3();
 //new Ass4();
-new Ass5(); 
+//new Ass5(); 
+new evcPlus();
     }
     
 }
