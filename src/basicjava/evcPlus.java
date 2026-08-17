@@ -41,7 +41,6 @@ public class evcPlus {
                     }else {
                         System.out.println("");
                     }
-                    
                 case 4 :
                     System.out.println("Good bye Thank you");
                     break;
