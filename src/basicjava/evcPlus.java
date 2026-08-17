@@ -46,7 +46,7 @@ public class evcPlus {
                     System.out.println("Good bye Thank you");
                     break;
                 default :
-                    System.out.println("Please Enter correct ");
+                    System.out.println("Please Enter correct");
         }
         }
     }
