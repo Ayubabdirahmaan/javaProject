@@ -20,7 +20,7 @@ public class evcPlus {
                     break;
                 case 2: 
                     System.out.println("how much depost money");
-                       int blance = money.nextInt();
+                       double blance = money.nextInt();
                     if(blance > 0) {
                         blance = blance + currentBlance;
                         System.out.println("You blance is:"  + blance);
