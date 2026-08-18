@@ -3,8 +3,8 @@ package basicjava;
 import java.util.Scanner;
 public class evcPlus {
     Scanner money = new Scanner(System.in);
-    int pin=2030;
-    int currentBlance = 900;
+    int pin=  2030;
+    double currentBlance = 900;
     public evcPlus() {
         System.out.println("Enter You Pin");
         int secret = money.nextInt();
