@@ -25,7 +25,7 @@ public class evcPlus {
                         blance = blance + currentBlance;
                         System.out.println("You blance is:"  + blance);
                     }else if(blance < 0) {
-                        System.out.println("Invalid amount");
+                        System.out.println("Invalid amount.");
                     }
                     break;
                 case 3:
