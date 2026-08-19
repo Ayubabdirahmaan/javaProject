@@ -2,7 +2,7 @@ package basicjava;
 
 import java.util.Scanner;
 public class evcPlus {
-    Scanner money = new Scanner(System.in);
+    Scanner money = new Scanner(System.in);                                                                                                                                                                                                                                                                                                                                                                                              
     int pin=  2030;
     double currentBlance = 900;
     public evcPlus() {
